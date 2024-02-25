@@ -3,9 +3,9 @@
 ## Proposta do Trabalho
 Neste trabalho, o escopo trabalhado envolverá descobrir quais são os top 20 clientes do e-commerce.
 ### Datasets utilizados
-* olist_customers_dataset.csv
-* olist_order_reviews_dataset.csv
-* olist_orders_dataset.csv
+* _olist_customers_dataset.csv_
+* _olist_order_reviews_dataset.csv_
+* _olist_orders_dataset.csv_
 ### Etapas
 1. Análise exploratória inicial das três tabelas:
     - Média de colunas numéricas;
